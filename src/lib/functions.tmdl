@@ -78,7 +78,7 @@ function 'Ankush.SemanticInfo.AllCalc.Describe' = ```
 			    _AllCalculations
 		```
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -167,7 +167,7 @@ function 'Ankush.SemanticInfo.AllTableSummery.Describe' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -196,7 +196,7 @@ function 'Ankush.SemanticInfo.Auther' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -233,7 +233,7 @@ function 'Ankush.SemanticInfo.Dax_Dependancy.Show' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -287,6 +287,10 @@ function 'Ankush.SemanticInfo.Dax_Impact.Show' = ```
 		                    "Display Folder", [Display Folder]
 		                )
 		```
+
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
+
+	annotation DAXLIB_PackageVersion = 1.0.0
 	
 
 function 'Ankush.SemanticInfo.Explain' = ```
@@ -352,7 +356,7 @@ function 'Ankush.SemanticInfo.Explain' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -444,7 +448,7 @@ function 'Ankush.SemanticInfo.HiddenObjects.Display' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -466,7 +470,7 @@ function 'Ankush.SemanticInfo.Measures.Display' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -538,7 +542,7 @@ function 'Ankush.SemanticInfo.Model.Describe' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -602,7 +606,7 @@ function 'Ankush.SemanticInfo.Relationships.Display' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -645,7 +649,7 @@ function 'Ankush.SemanticInfo.RLS.Display' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -680,7 +684,7 @@ function 'Ankush.SemanticInfo.TableNames.Display' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
@@ -850,7 +854,7 @@ function 'Ankush.SemanticInfo.Tables.Describe' = ```
 		```
 	
 
-	annotation DAXLIB_PackageId = Ankush-Sharma06/Ankush.SemanticInfo
+	annotation DAXLIB_PackageId = Ankush.SemanticInfo
 
 	annotation DAXLIB_PackageVersion = 1.0.0
 
